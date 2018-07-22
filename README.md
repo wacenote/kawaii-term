@@ -1,7 +1,16 @@
+[nardtreeさんのkawaii-term](https://github.com/GINK03/kawaii-term)のフォーク
+
+## 変更点
+- ランダムなemojiの表示
+- 空きメモリをMemFreeからMemAvailableに変更
+- CPU使用率、Disk使用状況、天気を非表示
+- ログイン時のAAを非表示
+
+---
+
 # What About Kawaii-Term
 kawaii-termは主にエンジニアに対して適切に精神的な癒しを与えることで、ストレスを低減するものです　　
-
-この世界が可愛ければ戦争は無くなるのに  
+この世界が可愛ければ戦争は無くなるのに
 
 ## 機能一覧
 - 任意の文字列の表示
